@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Past::Checker::VERSION
   s.authors     = ["Harutaka Takeuchi"]
   s.email       = ["nametaketakewo@icloud.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Past::Checker."
-  s.description = "TODO: Description of Past::Checker."
+  s.homepage    = "https://github.com/nametaketakewo/past-checker"
+  s.summary     = "You can check if DateTime is past."
+  s.description = "You can check if DateTime is past."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
